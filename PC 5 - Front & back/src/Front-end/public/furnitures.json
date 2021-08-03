@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Banquette convertible",
+    "id": 1,
+    "prix": 1200
+  },
+  {
+    "name": "Lampe à poser",
+    "id": 2,
+    "prix": 150
+  },
+  {
+    "name": "Lit enfant",
+    "id": 3,
+    "prix": 460
+  },
+  {
+    "name": "Armoire",
+    "id": 3,
+    "prix": 575
+  },
+  {
+    "name": "Téléviseur HD",
+    "id": 4,
+    "prix": 120
+  },
+  {
+    "name": "Secrétaire en bois massif",
+    "id": 5,
+    "prix": 349
+  },
+  {
+    "name": "Lit gigogne",
+    "id": 6,
+    "prix": 130
+  },
+  {
+    "name": "Lot chaises anciennes",
+    "id": 7,
+    "prix": 245
+  },
+  {
+    "name": "Minibar années 30",
+    "id": 8,
+    "prix": 290
+  }
+]
