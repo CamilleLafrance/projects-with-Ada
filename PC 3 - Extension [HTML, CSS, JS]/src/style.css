@@ -1,0 +1,78 @@
+#backgroundImage {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: "Crimson Text", serif;
+  color: white;
+  text-align: center;
+  font-size: 75px;
+  display: block;
+}
+
+#horloge {
+  font-family: "Crimson Text", serif;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 35px;
+}
+
+#grateful {
+  color: white;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Crimson Text", serif;
+  text-align: center;
+  font-size: 40px;
+}
+
+:placeholder-shown {
+  font-size: 40px;
+  border-radius: 20px;
+  background-color: inherit;
+  outline: none;
+}
+
+::placeholder {
+  color: white;
+  font-family: "Crimson Text", serif;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  background-color: inherit;
+  opacity: 50%;
+}
+
+.input-placeholder {
+  color: white;
+  font-family: "Crimson Text", serif;
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  background-color: inherit;
+  outline: none;
+  border-radius: 20px;
+  opacity: 70%;
+}
+
+.enter-button {
+  color: white;
+  font-family: "Crimson Text", serif;
+  text-align: center;
+  font-size: 15px;
+  background-color: inherit;
+  outline: none;
+  border-radius: 20px;
+}
