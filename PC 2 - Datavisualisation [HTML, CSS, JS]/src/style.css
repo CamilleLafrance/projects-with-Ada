@@ -1,0 +1,85 @@
+#zdog-canvas {
+  background: #fdb;
+  cursor: move;
+  display: block;
+  position: absolute;
+  left: 5px;
+  bottom: 5px;
+  z-index: -1;
+}
+
+body {
+  background-color: #fdb;
+}
+
+.styleBulle {
+  border-radius: 30px;
+  border: 5px solid #ea0;
+  width: 200px;
+  height: 150px;
+  position: relative;
+}
+
+#bulle {
+  margin-left: 250px;
+  margin-top: 5px;
+}
+
+#bulleH {
+  margin-left: 600px;
+  margin-top: 0px;
+  margin-bottom: 200px;
+}
+
+#annee {
+  font-size: 40px;
+  font-family: "Trebuchet MS";
+  display: inline-block;
+  position: relative;
+  top: 50px;
+  color: #636;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: 35%;
+  margin-bottom: 10px;
+}
+
+#titre {
+  font-size: 35px;
+  font-family: "Trebuchet MS";
+  font-weight: bold;
+  display: inline-block;
+  position: relative;
+  color: #636;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: 3%;
+  margin-bottom: 30px;
+}
+
+#source {
+  font-size: 20px;
+  font-family: "Trebuchet MS";
+  display: inline-block;
+  color: #636;
+  position: relative;
+  top: 100px;
+  margin-right: auto;
+  margin-left: 0%;
+  margin-bottom: 40px;
+}
+
+.stylePourcentage {
+  font-size: 40px;
+  font-family: "Trebuchet MS";
+  display: inline-block;
+  color: #636;
+  margin-top: 27%;
+  margin-right: auto;
+  margin-left: 19%;
+  margin-bottom: 40px;
+}
+
+#pourcentageF {
+  font-weight: bold;
+}
